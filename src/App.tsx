@@ -241,7 +241,7 @@ function App() {
 
         {/* Contact Discord direct */}
         <div className="discord-contact">
-          <p>Pour toute demande, contactez-moi directement sur Discord : <strong>zer1xe</strong></p>
+          <p>Pour toute demande, contactez-moi directement sur Discord : <strong>scarifietoipourmoisalope.</strong></p>
         </div>
 
         {/* Badge de disponibilité */}
